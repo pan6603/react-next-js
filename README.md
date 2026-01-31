@@ -8,3 +8,4 @@
 
 
 ### 섹션 1. 강의소개와 개발환경 
++ <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%201/1.%20%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.md">1. 강의소개</a>
