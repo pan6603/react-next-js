@@ -21,5 +21,5 @@
 + <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%201/9.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EA%B0%84%20%ED%86%B5%EC%8B%A0.md">9. 컴포넌트간 통신</a>
 
 ### 섹션 3. 한 화면에서 동작하는 Todo만들기
-+ <a href="">Todo예제 개발준비-소스코드</a>
++ <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%202/12.%20Todo%EC%98%88%EC%A0%9C%20%EA%B0%9C%EB%B0%9C%EC%A4%80%EB%B9%84-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.md">Todo예제 개발준비-소스코드</a>
 
