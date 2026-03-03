@@ -24,5 +24,5 @@
 + <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%202/12.%20Todo%EC%98%88%EC%A0%9C%20%EA%B0%9C%EB%B0%9C%EC%A4%80%EB%B9%84-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.md">Todo예제 개발준비-소스코드</a>
 + <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/%EC%A0%84%EA%B0%9C%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%EB%B0%B0%EC%97%B4%EC%9D%98%20filter.md">전개연산자와 배열의 filter</a>
 + <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/Todo%20%EB%AA%A9%EB%A1%9D%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EB%93%B1%EB%A1%9D.md">Todo 목록출력과 등록</a>
-+ <a href="">Todo 삭제와 수정처리1</a>
++ <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/Todo%20%EC%82%AD%EC%A0%9C%EC%99%80%20%EC%88%98%EC%A0%95%EC%B2%98%EB%A6%AC1.md">Todo 삭제와 수정처리1</a>
 
