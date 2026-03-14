@@ -28,6 +28,6 @@
 + <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/%ED%99%94%EB%A9%B4%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md">화면 디자인 수정하기</a>
 
 ### 섹션 4. 외부 API 서버와 연동하는 Todo 만들기 
-+ <a href="">비동기 통신에 대한 이해</a>
++ <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%86%B5%EC%8B%A0%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md">비동기 통신에 대한 이해</a>
 
 
