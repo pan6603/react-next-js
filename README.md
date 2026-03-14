@@ -29,6 +29,6 @@
 
 ### 섹션 4. 외부 API 서버와 연동하는 Todo 만들기 
 + <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%86%B5%EC%8B%A0%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md">비동기 통신에 대한 이해</a>
-+ <a href="">컴포넌트의 비동기 호출</a>
++ <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%98%B8%EC%B6%9C.md">컴포넌트의 비동기 호출</a>
 
 
