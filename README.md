@@ -33,3 +33,6 @@
 + <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/Fetch%20API%20%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20Todo%20%EB%AA%A9%EB%A1%9D%ED%8E%98%EC%9D%B4%EC%A7%80.md">Fetch API 를 이용한 Todo 목록페이지</a>
 + <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%98%203/%EB%8F%99%EC%A0%81%20%EA%B2%BD%EB%A1%9C%20%EC%B2%98%EB%A6%AC%EC%99%80%20Link.md">동적 경로 처리와 Link</a>
 
+
+## 섹션 5. Zustand와 상태 관리
++ <a href="">30. 전역 상태를 위한 스토어</a>
