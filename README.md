@@ -35,4 +35,4 @@
 
 
 ## 섹션 5. Zustand와 상태 관리
-+ <a href="">전역 상태를 위한 스토어</a>
++ <a href="https://github.com/pan6603/react-next-js/blob/main/%EC%84%B9%EC%85%985/%EC%A0%84%EC%97%AD%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%8A%A4%ED%86%A0%EC%96%B4.md">전역 상태를 위한 스토어</a>
